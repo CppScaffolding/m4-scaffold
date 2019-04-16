@@ -1,0 +1,4 @@
+## .gitignore file for m4-scaffold
+
+## ignore folder fetched through gclient
+m4
